@@ -1,6 +1,8 @@
-This website is a simulation of netflix website developed using EJS, CSS, Javascript, NodeJS, Express, Passport and MongoDB.
+# This website is a simulation of netflix website developed using EJS, CSS, Javascript, NodeJS, Express, Passport and MongoDB.
 
 The project is live at : https://fizzbuzz-netflix-clone.herokuapp.com/
+
+
 
 Icon made using - https://fontmeme.com/
 
